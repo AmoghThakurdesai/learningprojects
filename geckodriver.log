@@ -1,0 +1,374 @@
+1642244534537	geckodriver	INFO	Listening on 127.0.0.1:60211
+1642244537579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60212" "-no-remote" "-profile" "C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofileNMOPPO"
+1642244537953	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofileNMOPPO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60212/devtools/browser/126ff51e-92cd-49dc-a0e2-03c4954d74e0
+1642244540056	Marionette	INFO	Listening on port 60217
+1642244545734	Marionette	INFO	Stopped listening on port 60217
+1642244545768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642244570183	geckodriver	INFO	Listening on 127.0.0.1:60248
+1642244573256	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60249" "-no-remote" "-profile" "C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofileyd0vAk"
+1642244573684	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofileyd0vAk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60249/devtools/browser/085aff30-9902-41f4-8523-9713b2f5ac86
+1642244575901	Marionette	INFO	Listening on port 60254
+1642244575945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642244585675	Marionette	INFO	Stopped listening on port 60254
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642245186428	geckodriver	INFO	Listening on 127.0.0.1:60303
+1642245189469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60304" "-no-remote" "-profile" "C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofilelEJkRy"
+1642245189787	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofilelEJkRy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60304/devtools/browser/deb76818-112a-4a85-bb19-322e46aa64d9
+1642245192032	Marionette	INFO	Listening on port 60309
+1642245192147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1642246129433	Marionette	INFO	Stopped listening on port 60309
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+CW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60462/devtools/browser/dc1bbfcb-5fbf-47ef-970c-1a7717349e23
+1642246100547	Marionette	INFO	Listening on port 60468
+1642246100935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1642246334618	Marionette	INFO	Stopped listening on port 60468
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+red for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1642248575304	Marionette	INFO	Stopped listening on port 60530
+Exiting due to channel error.
+Exiting due to channel error.
+m Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60651" "-no-remote" "-profile" "C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofileOfrZ9u"
+1642247327409	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofileOfrZ9u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60651/devtools/browser/03869de9-58b9-4534-b1c7-1272e93aefe7
+1642247329503	Marionette	INFO	Listening on port 60656
+1642247329788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1642247690327	Marionette	INFO	Stopped listening on port 60656
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+pl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60709/devtools/browser/d182a90e-f78e-484f-a947-db4051120cf3
+1642247411297	Marionette	INFO	Listening on port 60714
+1642247411455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1642247688983	Marionette	INFO	Stopped listening on port 60714
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ NotFoundError("Could not open the file at C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofilegnpm9R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60764/devtools/browser/4e2466b6-2a76-4c71-b6cb-9d1e58b727a3
+1642247469263	Marionette	INFO	Listening on port 60769
+1642247469572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1642247687659	Marionette	INFO	Stopped listening on port 60769
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+oi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60808/devtools/browser/78c0ac95-839d-4100-bc2e-1d5f17b39d97
+1642247585091	Marionette	INFO	Listening on port 60813
+1642247585419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1642247686446	Marionette	INFO	Stopped listening on port 60813
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642247889521	geckodriver	INFO	Listening on 127.0.0.1:60886
+1642247892600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60887" "-no-remote" "-profile" "C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofile7ExJrI"
+1642247892963	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofile7ExJrI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60887/devtools/browser/18d6c699-f0e2-4310-850d-740952bbec19
+1642247895124	Marionette	INFO	Listening on port 60892
+1642247895292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1642248575200	Marionette	INFO	Stopped listening on port 60892
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A015B,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\amogh\AppData\Local\Temp\rust_mozprofile7ExJrI\protections.sqlite
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014E,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+1642328373520	geckodriver	INFO	Listening on 127.0.0.1:52796
+1642328374905	geckodriver	INFO	Listening on 127.0.0.1:52800
+1642328377965	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52801" "-no-remote" "-profile" "C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofileye93Jl"
+1642328379106	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofileye93Jl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52801/devtools/browser/ef629d7c-a9c7-449f-8891-e5365e9dcf73
+1642328381488	Marionette	INFO	Listening on port 52806
+1642328381673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1642333370900	Marionette	INFO	Stopped listening on port 52806
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ NotFoundError("Could not open the file at C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofile2YZx5Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52881/devtools/browser/f4aeacc7-54bf-4fd0-b8b9-4678ee9cf3bc
+1642328596714	Marionette	INFO	Listening on port 52886
+1642328596983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1642333369581	Marionette	INFO	Stopped listening on port 52886
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ NotFoundError("Could not open the file at C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofileWVJhMF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52987/devtools/browser/914ded13-9031-444e-9cf6-3f9222cad034
+1642328945735	Marionette	INFO	Listening on port 52992
+1642328945865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1642333366571	Marionette	INFO	Stopped listening on port 52992
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ NotFoundError("Could not open the file at C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofileoYiqe5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53045/devtools/browser/3e5b22f5-5d9b-48c2-ae05-b9ba61628425
+1642328984544	Marionette	INFO	Listening on port 53050
+1642328984681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1642333368347	Marionette	INFO	Stopped listening on port 53050
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ NotFoundError("Could not open the file at C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofile8E7cwh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53130/devtools/browser/35006118-5eb7-47c8-8a62-843d8a0a5afe
+1642329020752	Marionette	INFO	Listening on port 53135
+1642329021122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642329021945	Marionette	INFO	Stopped listening on port 53135
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642334752872	geckodriver	INFO	Listening on 127.0.0.1:53613
+1642334755919	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53614" "-no-remote" "-profile" "C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofileCcnivL"
+1642334756230	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofileCcnivL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53614/devtools/browser/ba93eee2-4116-465a-a77d-440eb5d71328
+1642334758331	Marionette	INFO	Listening on port 53621
+1642334758609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1642339313560	Marionette	INFO	Stopped listening on port 53621
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+jq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53699/devtools/browser/adc9f919-a967-42ae-8c8d-ab310dea084c
+1642334812592	Marionette	INFO	Listening on port 53706
+1642334812935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1642335693503	Marionette	INFO	Stopped listening on port 53706
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+2J\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53775/devtools/browser/84daab2d-400e-4c79-b785-afb8cc4eaadf
+1642334854216	Marionette	INFO	Listening on port 53782
+1642334854556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1642335692216	Marionette	INFO	Stopped listening on port 53782
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+3S\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53876/devtools/browser/6aa147d6-3de2-4492-a376-532b75797a95
+1642334937541	Marionette	INFO	Listening on port 53882
+1642334937881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1642335689481	Marionette	INFO	Stopped listening on port 53882
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+N2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53963/devtools/browser/f01dd942-f6be-46ed-abba-254e5a94ba01
+1642335004399	Marionette	INFO	Listening on port 53970
+1642335004653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1642335011506	Marionette	INFO	Stopped listening on port 53970
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642335056974	geckodriver	INFO	Listening on 127.0.0.1:54036
+1642335060044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54037" "-no-remote" "-profile" "C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofilepx25qi"
+1642335060331	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofilepx25qi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54037/devtools/browser/b6ce06d9-de7b-4eed-88a0-70f5c1d2aefa
+1642335062644	Marionette	INFO	Listening on port 54043
+1642335062723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1642335686355	Marionette	INFO	Stopped listening on port 54043
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54258/devtools/browser/a648ff94-fa2f-416a-acf8-918aba0a987c
+1642335293226	Marionette	INFO	Listening on port 54264
+1642335293329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1642335682008	Marionette	INFO	Stopped listening on port 54264
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:131:26
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+aScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1642335683549	Marionette	INFO	Stopped listening on port 54334
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ys\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54420/devtools/browser/9b2a2b06-b0ac-4ce6-b508-aa077180c88c
+1642335364572	Marionette	INFO	Listening on port 54426
+1642335364643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1642335684867	Marionette	INFO	Stopped listening on port 54426
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ NotFoundError("Could not open the file at C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofilehPtAvA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54502/devtools/browser/45989247-e70d-44a7-af0c-5931b2ad3f8c
+1642335408695	Marionette	INFO	Listening on port 54508
+1642335409029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1642335688157	Marionette	INFO	Stopped listening on port 54508
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ NotFoundError("Could not open the file at C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofileL6B5vx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54613/devtools/browser/a5acb8d3-f9ee-4c05-b9c6-861521510a65
+1642335503463	Marionette	INFO	Listening on port 54618
+1642335503639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1642335690918	Marionette	INFO	Stopped listening on port 54618
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Ts\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54674/devtools/browser/551a8a0b-0301-461a-9ae5-0c1da665602e
+1642335590549	Marionette	INFO	Listening on port 54679
+1642335590678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642335591555	Marionette	INFO	Stopped listening on port 54679
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642335622650	geckodriver	INFO	Listening on 127.0.0.1:54711
+1642335625713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54712" "-no-remote" "-profile" "C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofileqPvZAh"
+1642335626024	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofileqPvZAh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54712/devtools/browser/495d8de8-4dd2-4789-b2b6-d40634c5d8ff
+1642335628048	Marionette	INFO	Listening on port 54717
+1642335628380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642335629011	Marionette	INFO	Stopped listening on port 54717
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642335874488	geckodriver	INFO	Listening on 127.0.0.1:54755
+1642335877561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54756" "-no-remote" "-profile" "C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofilejgVRsE"
+1642335877930	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofilejgVRsE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54756/devtools/browser/0303f9f9-3fb4-443d-950e-3b1bbe4abd29
+1642335880171	Marionette	INFO	Listening on port 54761
+1642335880241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1642336102180	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1642336191071	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1642336221386	Marionette	INFO	Stopped listening on port 54761
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642418134065	geckodriver	INFO	Listening on 127.0.0.1:59868
+1642418137142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59869" "-no-remote" "-profile" "C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofileQjMrKY"
+1642418137891	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofileQjMrKY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59869/devtools/browser/a75134a6-4271-4e56-b9c9-b696fe2c8b52
+1642418140897	Marionette	INFO	Listening on port 59874
+1642418141402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642418143866	Marionette	INFO	Stopped listening on port 59874
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642418267686	geckodriver	INFO	Listening on 127.0.0.1:59931
+1642418270751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59932" "-no-remote" "-profile" "C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofileKWIlgi"
+1642418271050	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofileKWIlgi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59932/devtools/browser/0114a0f0-4c2e-45fc-9d3f-594c43f0567d
+1642418273000	Marionette	INFO	Listening on port 59937
+1642418273412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.metafilter.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.metafilter.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642418656800	Marionette	INFO	Stopped listening on port 59937
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642418973351	geckodriver	INFO	Listening on 127.0.0.1:60038
+1642418976404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60039" "-no-remote" "-profile" "C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofileIcrbG3"
+1642418976755	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\amogh\\AppData\\Local\\Temp\\rust_mozprofileIcrbG3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60039/devtools/browser/c27fd86e-d3fb-4b35-a2a0-b49085bd57fc
+1642418978996	Marionette	INFO	Listening on port 60044
+1642418979083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1642419619326	Marionette	INFO	Stopped listening on port 60044
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
